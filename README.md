@@ -32,7 +32,7 @@ Raw Dataset air quality from [Dicoding Air Quality](https://air-quality-geraldal
 ### Install the required packages
    The packages needed to run the analysis on both Colab and the dashboard
    ```
-   pip install pandas numpy matplotlib gdown os plotly scipy seaborn streamlit
+   pip install pandas numpy matplotlib gdown plotly seaborn streamlit
    ```
    or by the following command
    ```
